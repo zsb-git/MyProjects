@@ -1,0 +1,51 @@
+[
+    {
+        "Trip_name": "sibi",
+        "description": "hey",
+        "amount": "1200.0",
+        "paid_by": "nibi",
+        "date": "01/01/2000"
+    },
+    {
+        "Trip_name": "sibi",
+        "description": "12",
+        "amount": "1200.0",
+        "paid_by": "nibi",
+        "date": "01/02/2025"
+    },
+    {
+        "Trip_name": "sibi",
+        "description": "sssss",
+        "amount": "1250.0",
+        "paid_by": "jibi",
+        "date": "05/05/2026"
+    },
+    {
+        "Trip_name": "Test",
+        "description": "test",
+        "amount": "100.0",
+        "paid_by": "ravi",
+        "date": "01/01/2025"
+    },
+    {
+        "Trip_name": "Test",
+        "description": "test1",
+        "amount": "120.0",
+        "paid_by": "ravi",
+        "date": "01/01/2025"
+    },
+    {
+        "Trip_name": "Test",
+        "description": "test",
+        "amount": "250.0",
+        "paid_by": "nibi",
+        "date": "01/01/2025"
+    },
+    {
+        "Trip_name": "Test",
+        "description": "1111",
+        "amount": "120.0",
+        "paid_by": "jibi",
+        "date": "01/01/2025"
+    }
+]

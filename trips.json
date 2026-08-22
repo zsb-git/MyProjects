@@ -1,0 +1,20 @@
+[
+    {
+        "username": "sibi",
+        "Trip_name": "sibi",
+        "destination": "test",
+        "participants": "3",
+        "budget": "$1500",
+        "start_date": "22/01/2026",
+        "end_date": "22/05/2026"
+    },
+    {
+        "username": "sibi",
+        "Trip_name": "Test",
+        "destination": "Singapore",
+        "participants": "3",
+        "budget": "$2000",
+        "start_date": "01/01/2025",
+        "end_date": "01/01/2026"
+    }
+]

@@ -1,0 +1,13 @@
+# Do not commit .env file with sensitive information
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.vscode/
+.idea/
+*.sqlite3
+db.sqlite3
